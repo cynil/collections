@@ -1,7 +1,8 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#531A12",
-        "titleBar.activeBackground": "#752519",
-        "titleBar.activeForeground": "#FDF9F8"
-    }
+        "activityBar.background": "#2B2C43",
+        "titleBar.activeBackground": "#3C3D5D",
+        "titleBar.activeForeground": "#FBFBFD"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
