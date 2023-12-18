@@ -1,5 +1,4 @@
-## 扩展数组
-```c
+
 #include <stdlib.h>
 
 int *extend(int *nums, int size, int enlarge) {
@@ -15,4 +14,3 @@ int *extend(int *nums, int size, int enlarge) {
 
   return res;
 }
-```
